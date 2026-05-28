@@ -1,0 +1,77 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+tests/
+*.egg-info/
+.installed.cfg
+*.egg
+*.npy
+*.npz
+*.h5ad
+*.pkl
+*.zip
+*csv.gz
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+.virtualenv
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+*rebuttals_outputs/*
+
+*npz
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.hypothesis/
+
+# Distribution / packaging
+*.whl
+
+# Environment
+.env
+.env.local
+
+# uv
+.uv/
+uv.lock
+
+# Python version
+.python-version
+
+external/
+results/
+*.log
+data/cps/cps_00001.dat
